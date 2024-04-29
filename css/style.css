@@ -1,0 +1,101 @@
+.intro
+{
+    background-color:#642283;
+    color: white;
+    text-align: center;
+    height: 100%;
+    
+}
+
+.name{
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.caption{
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+#book
+{
+    float: right;
+    padding-left: 700px;
+    transform: rotate(-5deg);
+}
+#code
+{
+    float: left;
+    padding-right: 750px;
+    transform: rotate(-20deg);    
+}
+#star1
+{
+    padding-left: 400px;
+    transform: rotate(-25deg);
+}
+#star2
+{
+    padding-right: 550px;
+    transform: rotate(-5deg);
+}
+#profile
+{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+.current
+{
+    background-color: #DED0C0
+}
+#hello
+{
+    color: #FAB543;
+    font-family: Montserrat,sans-serif;
+}
+#hellolead
+{
+    font-family: Merriweather, serif;
+}
+#hellohyperlink
+{
+    text-decoration: none; 
+    color: #642283;
+}
+#projectsheading
+{
+    color: #642283;
+    font-family: Montserrat,sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.carousel-item >img
+{
+    opacity: 30%;
+}
+.carousalsitehyperlink
+{
+    color: white;
+    text-decoration: none;
+}
+#contactmeheading
+{
+    color: #642283;
+    font-family: Montserrat,sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+#contactmelead
+{
+    font-family: Merriweather, serif;
+}
+.contactmehyper
+{
+    border: none;
+    background-color: #FAB543;
+}
